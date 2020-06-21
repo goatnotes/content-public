@@ -1,0 +1,11 @@
+examBoards:
+  -
+    title: 'AQA',
+    # definitions: physics.definitions.aqa
+    modules:
+      -
+        title: 'Particle Physics'
+      -
+        title: 'Quantum Physics'
+      -
+        title: 'Waves'

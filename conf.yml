@@ -1,0 +1,11 @@
+sites:
+  aLevel:
+    -
+      title: Physics
+      path: sites/l3/physics
+    -
+      title: Chemistry
+      path: sites/l3/chemistry
+    -
+      title: Biology
+      path: sites/l3/biology
