@@ -2,10 +2,10 @@ sites:
   aLevel:
     -
       title: Physics
-      path: sites/l3/physics
+      path: sites.aLevel.physics
     -
       title: Chemistry
-      path: sites/l3/chemistry
+      path: sites.aLevel.chemistry
     -
       title: Biology
-      path: sites/l3/biology
+      path: sites.aLevel.biology

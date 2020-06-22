@@ -1,7 +1,6 @@
 examBoards:
   -
-    title: 'AQA',
-    # definitions: physics.definitions.aqa
+    title: 'AQA'
     modules:
       -
         title: 'Particle Physics'
@@ -9,3 +8,7 @@ examBoards:
         title: 'Quantum Physics'
       -
         title: 'Waves'
+      -
+        title: 'Mechanics'
+      -
+        title: 'Electricity'
