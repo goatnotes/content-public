@@ -2,10 +2,10 @@ examBoards:
   -
     type: 'set'
     title: 'AQA'
-    modules:
+    children:
       -
         type: 'set'
-        title: 'Particle Physics'
+        title: 'particlePhysics'
         children:
           -
             type: 'page'
