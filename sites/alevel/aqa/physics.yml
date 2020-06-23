@@ -7,29 +7,29 @@ children:
     children:
       -
         type: 'page'
-        title: 'Overview of Particle Physics'
+        title: 'overviewOfParticlePhysics'
       -
         type: 'page'
-        title: 'Particle Classification'
+        title: 'particleClassification'
         path: l3.particlePhysics.particleClassification
       -
         type: 'page'
-        title: 'The Standard Model Outlined'
+        title: 'theStandardModelOutlined'
       -
         type: 'page'
-        title: 'The Standard Model Explained?'
+        title: 'theStandardModelExplained'
       -
         type: 'page'
-        title: 'Particle Interactions'
+        title: 'particleInteractions'
   -
     type: 'set'
-    title: 'Quantum Physics'
+    title: 'quantumPhysics'
   -
     type: 'set'
-    title: 'Waves'
+    title: 'waves'
   -
     type: 'set'
-    title: 'Mechanics'
+    title: 'mechanics'
   -
     type: 'set'
-    title: 'Electricity'
+    title: 'electricity'
