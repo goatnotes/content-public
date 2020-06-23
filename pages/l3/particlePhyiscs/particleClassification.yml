@@ -1,0 +1,11 @@
+title: 'Particle Classification'
+root: l3.physics.particlePhysics.particleClassification
+chunks:
+  -
+    path: anOverviewOfParticleClassification
+  -
+    path: fermionsAndBosons
+  -
+    path: hadrons
+  -
+    path: leptons

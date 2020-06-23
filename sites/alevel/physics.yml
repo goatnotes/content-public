@@ -1,14 +1,37 @@
 examBoards:
   -
+    type: 'set'
     title: 'AQA'
     modules:
       -
+        type: 'set'
         title: 'Particle Physics'
+        children:
+          -
+            type: 'page'
+            title: 'Overview of Particle Physics'
+          -
+            type: 'page'
+            title: 'Particle Classification'
+            path: l3.particlePhysics.particleClassification
+          -
+            type: 'page'
+            title: 'The Standard Model Outlined'
+          -
+            type: 'page'
+            title: 'The Standard Model Explained?'
+          -
+            type: 'page'
+            title: 'Particle Interactions'
       -
+        type: 'set'
         title: 'Quantum Physics'
       -
+        type: 'set'
         title: 'Waves'
       -
+        type: 'set'
         title: 'Mechanics'
       -
+        type: 'set'
         title: 'Electricity'
