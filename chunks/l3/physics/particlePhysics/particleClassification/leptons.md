@@ -1,5 +1,5 @@
 ---
-title: 'Leptons'
+title: 'leptons'
 author: 'Ben Rogers-Newsome'
 level: 3
 type: 'core'

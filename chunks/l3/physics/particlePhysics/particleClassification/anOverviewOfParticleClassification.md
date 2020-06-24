@@ -1,5 +1,5 @@
 ---
-title: 'An Overview of Particle Classification'
+title: 'anOverviewOfParticleClassification'
 author: 'Ben Rogers-Newsome'
 level: 3
 type: 'core'
