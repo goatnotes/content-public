@@ -1,5 +1,5 @@
 ---
-title: 'Angular Velocity'
+title: 'angularVelocity'
 author: 'Ben Rogers-Newsome'
 level: 3
 type: 'core'

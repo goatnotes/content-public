@@ -1,5 +1,5 @@
 ---
-title: 'Centripetal Force'
+title: 'centripetalForce'
 author: 'Ben Rogers-Newsome'
 level: 3
 type: 'core'
