@@ -33,3 +33,15 @@ children:
   -
     type: 'set'
     title: 'electricity'
+  -
+    type: 'set'
+    title: 'furtherMechanics'
+    children:
+      -
+        type: 'page'
+        title: 'Angular Motion'
+        path: l3.furtherMechanics.angularMotion
+      -
+        type: 'page'
+        title: 'SHM'
+        path: l3.furtherMechanics.shm

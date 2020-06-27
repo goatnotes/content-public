@@ -1,0 +1,9 @@
+title: 'simpleHarmonicMotion'
+root:  l3.physics.furtherMechanics.shm
+chunks:
+  -
+    path: introToSHM
+  -
+    path: quadraticPotentials
+  -
+    path: conditionForSHM

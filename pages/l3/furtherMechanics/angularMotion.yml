@@ -1,0 +1,9 @@
+title: 'angularMotion'
+root: l3.physics.furtherMechanics.angularMotion
+chunks:
+  -
+    path: angularMotion
+  -
+    path: angularVelocity
+  -
+    path: angularFrequency
