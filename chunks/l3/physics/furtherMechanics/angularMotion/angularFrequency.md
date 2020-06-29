@@ -9,7 +9,7 @@ The angular velocity of a particle, $\omega$, is also known as the *angular freq
 
 Suppose, as usual, that we have a particle moving in a circle. It has a constant angular velocity $\omega$, and naturally after some time, which we will label $T$, it will return to it's original position (by virtue of the fact that the particle is moving in a circle).
 
-[DIAGRAM]
+![Circular motion](/img/physics/furtherMechanics/angularMotion/circularMotion.png)
 
 The question is: What is the time $T$ in terms of the angular velocity $\omega$?
 
