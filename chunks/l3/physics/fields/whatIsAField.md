@@ -28,3 +28,5 @@ And that is perhaps the best answer I can give to what a field *is*: Fields *are
 And perhaps that is the answer after all. The universe is made from energy - and energy is made of the universe. The two are one in the same thing. Think about it however you want.
 
 I guess, put in one line, you *could* say: Fields are mathematical objects which describe the interaction of energy in the universe. But whether you believe that is up to you.
+
+D
