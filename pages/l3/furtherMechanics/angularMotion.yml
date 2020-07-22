@@ -7,3 +7,8 @@ chunks:
     path: angularVelocity
   -
     path: angularFrequency
+  -
+    path: centripetalForce
+  -
+    path: centripetalForceDerivation
+    beyondSpec: true
