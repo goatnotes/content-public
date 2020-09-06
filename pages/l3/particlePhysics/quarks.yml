@@ -1,0 +1,15 @@
+title: 'Quarks'
+root: l3.physics.particlePhysics.quarks
+chunks:
+  -
+    path: quarksCameLate
+    beyondSpec: false
+  -
+    path: theSixQuarks
+    beyondSpec: false
+  -
+    path: howWereQuarksPredicted
+    beyondSpec: true
+  -
+    path: quarkCombinations
+    beyondSpec: false
