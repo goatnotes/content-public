@@ -1,15 +1,16 @@
 title: 'Quarks'
+open: 'All that has been previously discussed about particle physics (for the most part) was discovered and verified long before quarks were either predicted or discovered (it happened in that order). However, many of the connections between other particles (namely baryons and mesons) can be explained neatly through the existsence of quarks - which was largely why they were predicted.'
 root: l3.physics.particlePhysics.quarks
 chunks:
   -
     path: quarksCameLate
-    beyondSpec: false
   -
     path: theSixQuarks
-    beyondSpec: false
   -
     path: howWereQuarksPredicted
     beyondSpec: true
   -
     path: quarkCombinations
-    beyondSpec: false
+  -
+    path: understandingTheStrongNuclearForce
+    beyondSpec: true

@@ -1,7 +1,34 @@
 title: 'Conservation Laws'
-root: l3.physics.particlePhysics.particleInteractions
+root: l3.physics.particlePhysics.conservationsLaws
 chunks:
   -
-    path: howDoParticleInteract
+    path: whyAreSomeThingsConserved
+    beyondSpec: true
   -
-    path:
+    path: conservationInParticlePhysics
+  -
+    path: conservationOfEnergy
+  -
+    path: conservationOfMomentum
+  -
+    path: conservationOfMomentum
+  -
+    path: conservationOfCharge
+  -
+    path: conservationOfBaryonNumber
+    subheadings:
+      -
+        path: violationOfBaryonNumberConservation
+        beyondSpec: true
+  -
+    path: conservationOfLeptonNumber
+  -
+    path: conservationOfStrangeness
+    subheadings:
+      -
+        path: whyIsStrangenessNotConservedInTheWeakInteraction
+        beyondSpec: true
+  -
+    path: summaryOfConservationLaws
+  -
+    path: answeringQuestionsOnConservationLaws
