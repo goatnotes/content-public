@@ -11,42 +11,21 @@ children:
         label: 'coreConceptsInParticePhysics'
         path: l3.particlePhysics.coreConceptsInParticePhysics
       -
-        type: 'page'
-        title: 'overviewOfParticlePhysics'
-      -
-        type: 'page'
-        title: 'particleClassification'
+        label: 'particleClassification'
+        title: 'Particle Classification'
         path: l3.particlePhysics.particleClassification
-      -
-        type: 'page'
-        title: 'theStandardModelOutlined'
-      -
-        type: 'page'
-        title: 'theStandardModelExplained'
-      -
-        type: 'page'
-        title: 'particleInteractions'
   -
-    type: 'set'
-    title: 'quantumPhysics'
+    title: 'Quantum Physics'
+    label: 'quantumPhysics'
   -
-    type: 'set'
-    title: 'waves'
+    title: 'Waves'
+    label: 'waves'
   -
-    type: 'set'
-    title: 'mechanics'
+    title: 'Mechanics'
+    label: 'mechanics'
   -
-    type: 'set'
-    title: 'electricity'
+    label: 'electricity'
+    title: 'Electricity'
   -
-    type: 'set'
-    title: 'furtherMechanics'
-    children:
-      -
-        type: 'page'
-        title: 'Angular Motion'
-        path: l3.furtherMechanics.angularMotion
-      -
-        type: 'page'
-        title: 'SHM'
-        path: l3.furtherMechanics.shm
+    label: 'furtherMechanics'
+    title: 'Further Mechanics'
