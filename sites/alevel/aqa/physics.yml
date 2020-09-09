@@ -9,7 +9,7 @@ children:
       -
         title: 'Core Concepts in Partice Physics'
         label: 'coreConceptsInParticePhysics'
-        path: l3.particlePhysics.coreConceptsInParticePhysics
+        path: l3.particlePhysics.coreConceptsInParticlePhysics
       -
         label: 'particleClassification'
         title: 'Particle Classification'
