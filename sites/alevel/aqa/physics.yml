@@ -1,10 +1,15 @@
 type: 'set'
-title: 'physics'
+title: 'Physics'
+label: 'physics'
 children:
   -
-    type: 'set'
-    title: 'particlePhysics'
+    title: 'Particle Physics'
+    label: 'particlePhysics'
     children:
+      -
+        title: 'Core Concepts in Partice Physics'
+        label: 'coreConceptsInParticePhysics'
+        path: l3.particlePhysics.coreConceptsInParticePhysics
       -
         type: 'page'
         title: 'overviewOfParticlePhysics'
