@@ -31,7 +31,7 @@ $$
 	\frac{\dee^2 \x}{\dee t^2} = -\omega^2\times A\cos(\omega t + \phi) = -\omega^2 x
 $$
 
-And so, it works.
+And so, it works:
 
 $$
 	x = A\cos(\omega t + \phi)

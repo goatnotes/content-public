@@ -1,0 +1,11 @@
+title: 'whatIsAField'
+root: l3.physics.fields
+chunks:
+  -
+    path: empiricalMotivationForTheField
+  -
+    path: mathematicalFormulationOfAField
+  -
+    path: theCouplingConstant
+  -
+    path: whatIsAFieldConceptually

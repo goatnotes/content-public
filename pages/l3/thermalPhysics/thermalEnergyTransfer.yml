@@ -1,0 +1,10 @@
+title: 'Thermal Energy Transfer'
+root: l3.physics.thermalPhysics
+chunks:
+  -
+    path: internalEnergy
+  -
+    term: 'Internal Energy'
+    definition: 'Internal energy is the sum of the randomly distributed kinetic energies and potential energies of the particles in a body.'
+  -
+    path:
