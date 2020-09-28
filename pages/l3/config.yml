@@ -1,6 +1,0 @@
-title: Electric Fields
-exam_board: AQA
-chunks: # These should be in order of appearance on the page
-  - phys.emag.definingTheElectricField
-  - phys.emag.theCoulombForce
-  - etc.

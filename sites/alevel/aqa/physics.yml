@@ -1,4 +1,3 @@
-type: 'set'
 title: 'Physics'
 label: 'physics'
 children:
@@ -11,21 +10,26 @@ children:
         label: 'coreConceptsInParticlePhysics'
         path: l3.particlePhysics.coreConceptsInParticlePhysics
       -
-        label: 'particleClassification'
         title: 'Particle Classification'
+        label: 'particleClassification'
         path: l3.particlePhysics.particleClassification
   -
     title: 'Quantum Physics'
     label: 'quantumPhysics'
+    disabled: true
   -
     title: 'Waves'
     label: 'waves'
+    disabled: true
   -
     title: 'Mechanics'
     label: 'mechanics'
+    disabled: true
   -
     label: 'electricity'
     title: 'Electricity'
+    disabled: true
   -
     label: 'furtherMechanics'
     title: 'Further Mechanics'
+    disabled: true

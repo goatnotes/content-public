@@ -6,14 +6,19 @@ chunks:
   -
     path: fermionsAndBosons
   -
+    term: Fermion
+    definition: A fermion is a particle that has integer spin (take this out).
+  -
     path: hadrons
-    subheadings:
+    chunks:
       -
         title: Mesons
-        subheadings:
+        chunks:
           -
             path: pions
           -
             path: kaonsAndStrangeness
   -
     path: leptons
+  -
+    path: forceCarriers
